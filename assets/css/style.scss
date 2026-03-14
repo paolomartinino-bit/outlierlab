@@ -2,8 +2,6 @@
 ---
 @import "{{ site.theme }}";
 
-.main-content {
-  max-width: 90%; /* Qui puoi mettere 100% se vuoi proprio tutto lo schermo */
-  margin: 0 auto;
-  padding: 2rem;
+.container {
+  max-width: 95%; /* Allarga la struttura del tema Hacker */
 }
