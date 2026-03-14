@@ -2,14 +2,26 @@
 ---
 @import "{{ site.theme }}";
 
-/* Per il tema Hacker la struttura si chiama container o wrapper */
-.container, #wrapper {
-  max-width: 95% !important; 
-  width: 95% !important;
+/* Allarga la pagina a tutto schermo */
+.wrapper {
+  max-width: 95% !important;
   margin: 0 auto;
 }
 
-/* Questo assicura che il testo occupi lo spazio allargato */
-section#main_content {
-  max-width: 100% !important;
+/* Rende i grassetti più marcati */
+strong, b {
+  color: #000; /* Nero profondo */
+  font-weight: 800;
+}
+
+/* Rende i corsivi eleganti */
+em, i {
+  color: #333;
+  font-style: italic;
+}
+
+/* Opzionale: aggiunge una linea sotto i titoli per dare struttura */
+h1, h2, h3 {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 0.3rem;
 }
