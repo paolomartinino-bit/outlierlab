@@ -1,6 +1,10 @@
 # ANTROPOCREPE
 ## alla ricerca dell'umano
 
+<img src="antropocrepe.jpg" alt="Antropocrepe Cover" style="width:100%; filter: grayscale(100%) contrast(110%); border-bottom: 2px solid #1a1a1a; margin-top: 20px; margin-bottom: 20px;">
+
+---
+
 Adesso basta. Fermati. Smettila di credere a tutto quello che ti hanno insegnato e soprattutto che quella che vivi sia la realtà. 
 
 **Non c'è più tempo, dobbiamo agire adesso. Siamo immobili sull’orlo di un baratro esistenziale, in una condizione di angoscia perenne individualizzata e di precarietà generalizzata in una società che sta diventando sempre più violenta, basata sul dominio e la morte.**
