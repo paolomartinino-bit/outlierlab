@@ -1,7 +1,7 @@
 # ANTROPOCREPE
 ## alla ricerca dell'umano
 
-Adesso basta. Fermati. Smettila di credere a tutto quello che ti hanno insegnato. Quella non è la realtà. 
+Adesso basta. Fermati. Smettila di credere a tutto quello che ti hanno insegnato e soprattutto che quella che vivi sia la realtà. 
 
 **Non c'è più tempo, dobbiamo agire adesso. Siamo immobili sull’orlo di un baratro esistenziale, in una condizione di angoscia perenne individualizzata e di precarietà generalizzata in una società che sta diventando sempre più violenta, basata sul dominio e la morte.**
 Il controllo digitale e la messa in produzione inconsapevole delle nostre vite con i social e gli algoritmi delle intelligenze artificiali ci hanno ingabbiato in una condizione di alienazione che ci impedisce ogni tentativo di entrare in contatto con la nostra autentica umanità e ci porta ad accettare genocidi, guerre e la regressione delle conquiste sociali di uguaglianza e libertà, che non ci fa neanche pensare possibile l’idea di una minima fuga.
