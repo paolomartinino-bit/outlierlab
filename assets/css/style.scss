@@ -1,3 +1,10 @@
+Capisco perfettamente la frustrazione: sembra che il tema Minimal stia ignorando i nostri comandi di "pulizia" e continui a mostrare i suoi elementi predefiniti proprio sopra il tuo nuovo titolo ANTROPOCREPE.
+
+Il motivo è che GitHub Pages, a volte, carica i file CSS del tema dopo i tuoi, rendendo vani i nostri sforzi. Per "vincere" questa battaglia dobbiamo essere ancora più drastici e colpire i contenitori principali dell'header.
+
+Ecco il file assets/css/style.scss definitivo, riscritto per essere "distruttivo" contro l'intestazione automatica:
+
+SCSS
 ---
 ---
 @import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
@@ -10,18 +17,27 @@
   margin: 0 auto !important;
   display: block !important;
   float: none !important;
-  position: relative !important;
 }
 
-header, section {
-  float: none !important;
-  width: 100% !important;
-  position: static !important;
+/* 2. CANCELLAZIONE TOTALE INTESTAZIONE AUTOMATICA */
+/* Colpiamo l'intero blocco 'header' del tema Minimal */
+header {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
   margin: 0 !important;
   padding: 0 !important;
 }
 
-/* 2. ESTETICA GENERALE SLUDGE */
+/* 3. SISTEMAZIONE DEL CONTENUTO (SECTION) */
+section {
+  width: 100% !important;
+  float: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* 4. ESTETICA GENERALE SLUDGE */
 body {
   font-family: 'Special Elite', courier, serif !important;
   background-color: #f4f4f4 !important;
@@ -30,7 +46,7 @@ body {
   line-height: 1.6;
 }
 
-/* 3. IL MANIFESTO: ANTROPOCREPE */
+/* 5. IL MANIFESTO: ANTROPOCREPE */
 section h1:first-of-type {
   font-family: 'Special Elite', serif !important;
   font-size: 5rem !important;
@@ -38,6 +54,7 @@ section h1:first-of-type {
   color: #2c0b02 !important;
   letter-spacing: -4px;
   line-height: 0.8;
+  margin-top: 20px !important;
   margin-bottom: 0px !important;
   border-bottom: none !important;
   text-shadow: 2px 2px 0px #ccc;
@@ -53,25 +70,7 @@ section h2:first-of-type {
   border-bottom: 4px solid #1a1a1a !important;
 }
 
-/* 4. PULIZIA TOTALE INTESTAZIONE AUTOMATICA */
-/* Questo elimina ogni traccia del titolo e sottotitolo generati dal tema */
-header h1, 
-header p, 
-header p.header, 
-.header p,
-header p.view, 
-header ul, 
-footer {
-  display: none !important;
-}
-
-header {
-  margin-bottom: 0 !important;
-  padding-bottom: 0 !important;
-  height: 0 !important; /* Riduce l'ingombro dell'header ormai vuoto */
-}
-
-/* 5. ALTRI ELEMENTI */
+/* 6. ALTRI ELEMENTI */
 h2, h3, h4 {
   font-family: 'Special Elite', serif !important;
   color: #000 !important;
@@ -94,5 +93,4 @@ blockquote {
   border-left: 10px solid #2c0b02 !important;
   background: #eee;
   padding: 10px 20px !important;
-  margin: 20px 0 !important;
 }
