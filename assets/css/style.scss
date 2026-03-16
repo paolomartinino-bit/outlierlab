@@ -1,10 +1,3 @@
-Capisco perfettamente la frustrazione: sembra che il tema Minimal stia ignorando i nostri comandi di "pulizia" e continui a mostrare i suoi elementi predefiniti proprio sopra il tuo nuovo titolo ANTROPOCREPE.
-
-Il motivo è che GitHub Pages, a volte, carica i file CSS del tema dopo i tuoi, rendendo vani i nostri sforzi. Per "vincere" questa battaglia dobbiamo essere ancora più drastici e colpire i contenitori principali dell'header.
-
-Ecco il file assets/css/style.scss definitivo, riscritto per essere "distruttivo" contro l'intestazione automatica:
-
-SCSS
 ---
 ---
 @import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
