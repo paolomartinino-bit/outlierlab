@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
 @import "{{ site.theme }}";
 
-/* 1. RESET STRUTTURA */
+/* 1. RESET STRUTTURA - TUTTO SCHERMO */
 .wrapper {
   max-width: 95% !important;
   width: 95% !important;
@@ -21,42 +21,60 @@ header, section {
   padding: 0 !important;
 }
 
-/* 2. ESTETICA SLUDGE CON SPECIAL ELITE */
+/* 2. ESTETICA GENERALE SLUDGE */
 body {
   font-family: 'Special Elite', courier, serif !important;
-  background-color: #f4f4f4 !important;
+  background-color: #f4f4f4 !important; /* Grigio cemento chiaro */
   color: #1a1a1a !important;
   font-size: 1.25rem;
   line-height: 1.6;
 }
 
-/* Rendi i tuoi titoli nel README pesanti e sporchi */
-h1, h2, h3 {
+/* 3. IL MANIFESTO: ANTROPOCREPE */
+/* Colpisce il primo H1 del saggio */
+section h1:first-of-type {
   font-family: 'Special Elite', serif !important;
-  border-bottom: 2px solid #333;
-  padding-bottom: 10px;
+  font-size: 5rem !important; /* Gigantesco */
+  text-transform: uppercase;
+  color: #2c0b02 !important; /* Ruggine scura */
+  letter-spacing: -4px; /* Effetto schiacciato/pesante */
+  line-height: 0.8;
+  margin-bottom: 0px !important;
+  border-bottom: none !important;
+  text-shadow: 2px 2px 0px #ccc;
+}
+
+/* Il sottotitolo: alla ricerca dell'umano */
+section h2:first-of-type {
+  font-family: 'Special Elite', serif !important;
+  font-size: 1.6rem !important;
+  text-transform: lowercase;
+  color: #555 !important;
+  margin-top: 0px !important;
+  padding-bottom: 20px;
+  border-bottom: 4px solid #1a1a1a !important; /* Linea spessa nera */
+}
+
+/* Altri titoli nel testo */
+h2, h3, h4 {
+  font-family: 'Special Elite', serif !important;
+  color: #000 !important;
   margin-top: 40px !important;
+  border-bottom: 1px solid #333;
 }
 
-/* 3. ELIMINAZIONE TITOLI DOPPI E DISTURBI */
-/* Questo nasconde il titolo e sottotitolo automatici del tema */
-header h1, header p.header {
+/* 4. PULIZIA ELEMENTI INUTILI */
+/* Nasconde titoli automatici del tema e sidebar */
+header h1, header p.header, header p.view, header ul, footer {
   display: none !important;
 }
 
-/* Nasconde scritte "view on github" e footer */
-header p.view, header ul, footer {
-  display: none !important;
-}
-
-/* Riduce lo spazio vuoto in alto */
 header {
   margin-bottom: 0 !important;
   padding-bottom: 0 !important;
-  border-bottom: none !important;
 }
 
-/* 4. LINK STILE FANZINE */
+/* 5. LINK STILE FANZINE */
 a {
   color: #000 !important;
   text-decoration: underline;
@@ -66,4 +84,14 @@ a {
 a:hover {
   background: #000;
   color: #fff !important;
+  text-decoration: none;
+}
+
+/* Citazioni (Blockquotes) - stile ritaglio */
+blockquote {
+  border-left: 10px solid #2c0b02 !important;
+  background: #eee;
+  padding: 10px 20px !important;
+  font-style: italic;
+  margin: 20px 0 !important;
 }
