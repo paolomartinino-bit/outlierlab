@@ -6,6 +6,10 @@
 ---
 Adesso basta. Fermati. Smettila di credere a tutto quello che ti hanno insegnato e soprattutto che quella che vivi sia la realtà. 
 
+Non ho verità da raccontarti, solo ciò che mi manca. La presenza dell'impronunciabile nella nostra vita, qui e ora, è riconoscere la nostra infinitesima dimensione nei confronti dell'universo, di tutte le dimensioni non come segno dei onstri limiti, come di qualcosa che non abbiamo ancora conosciuto ma accettazione dei nostri limiti costitutivi 
+Cos'è bene nella nostra vita? agire per lasciar che la forza si manifesti intervendendo nella realtà. Tutto il resto sono i deliri 
+
+
 **Non c'è più tempo, dobbiamo agire adesso. Siamo immobili sull’orlo di un baratro esistenziale, in una condizione di angoscia perenne individualizzata e di precarietà generalizzata in una società che sta diventando sempre più violenta, basata sul dominio e la morte.**
 Il controllo digitale e la messa in produzione inconsapevole delle nostre vite con i social e gli algoritmi delle intelligenze artificiali ci hanno ingabbiato in una condizione di alienazione che ci impedisce ogni tentativo di entrare in contatto con la nostra autentica umanità e ci porta ad accettare genocidi, guerre e la regressione delle conquiste sociali di uguaglianza e libertà, che non ci fa neanche pensare possibile l’idea di una minima fuga.
 Non siamo clienti dei social network e delle piattaforme AI ma la manodopera non pagata del capitale cognitivo. La nostra libertà è una prigione di protocolli, non di sbarre, che ci costringe in una schiavitù invisibile dove l’energia mentale, l’attenzione e la creatività vengono silenziosamente messe in produzione per alimentare gli algoritmi. Questa prigione mentale ci rende incapaci di elaborare un immaginario sociale alternativo e ci costringe in un isolamento atomizzato.
@@ -209,16 +213,8 @@ Occorrono movimenti veloci, gesti istantanei. Cercano di prenderci ma non ci rie
 Dobbiamo accelerare tutto, portando il sistema alle estreme conseguenze e innescando così processi di radicale trasformazione dell'umano, integrandolo con intelligenze artificiali transumane e lavorando sulla consapevolezza dei nostri bisogni fondamentali. Il livello più avanzato di conflittualità che inneschiamo porta dentro di sé il rifiuto di potere, proprietà, dominio, violenza, morte.
 
 15/07/2026
-Quelli del collettivo dicono che lo scontro finale sarà sull’amore messo in produzione. Ne
-parlavamo spesso a cena. Yan saltava gli spaghetti di riso mentre noi aspettavamo al tavolo
-laminato, con le stufette accese, a raccontarci ricordi, a sentire il calore del ritrovarci insieme e gli
-odori delle giacche di pelle. Gli incontri fisici tra persone oggi sono consentiti solo per alcune
-attività: lavoro, rapporti col governo, acquisto di prodotti speciali.... poi in genere sono
-considerati negativi, anche se non vietati, e socialmente squalificanti. Con il collettivo noi
-costruiamo esperienze di liberazione, attraverso l’attivazione di improbabili relazioni fisiche
-personali tra le persone, dense di potenzialità generative. Catalizziamo le risorse di piccoli gruppi
-per promuovere processi che fanno dell’hacking culturale una visione del mondo e una pratica
-quotidiana in grado di collegare realtà diverse e di sperimentare nuovi linguaggi.
+Lo scontro finale sarà sull’amore messo in produzione. Ne parlavamo spesso a cena. Yan saltava gli spaghetti di riso mentre noi aspettavamo al tavolo
+laminato, con le stufette accese, a raccontarci ricordi, a sentire il calore del ritrovarci insieme e gli odori delle giacche di pelle. Gli incontri fisici tra persone oggi sono consentiti solo per alcune attività: lavoro, rapporti col governo, acquisto di prodotti speciali.... poi in genere sono considerati negativi, anche se non vietati, e socialmente squalificanti. Con il collettivo noi costruiamo esperienze di liberazione, attraverso l’attivazione di improbabili relazioni fisiche personali tra le persone, dense di potenzialità generative. Catalizziamo le risorse di piccoli gruppi per promuovere processi che fanno dell’hacking culturale una visione del mondo e una pratica quotidiana in grado di collegare realtà diverse e di sperimentare nuovi linguaggi.
 
 21/07/2026
 Adesso mi trovo in una stanza con lunghi tavoli di metallo scuro, incrostazioni, macchie di vernici
@@ -258,20 +254,8 @@ proprie esperienze e quindi hanno problemi d’identità, di riconoscimento soci
 margini, si organizzano in comunità clandestine utilizzando sistemi alternativi di comunicazione.
 
 28/07/2026
-La frontiera dello sfruttamento del biocapitalismo è l'economia della felicità. Quelli del collettivo
-dicono che le nostre azioni devono essere dirette a scollegarci dall’alienazione identitaria e a
-stimolare esperienze in altre dimensioni plurali della nostra esistenza. La società che vogliamo
-costruire deve mettere al centro la possibilità per ogni essere umano di lavorare sulle proprie
-domande: è questa la vera “pari opportunità” per il futuro, il diritto da conquistarci, il mondo
-nuovo, la rivoluzione. Non può essere nell’orizzonte del nostro avvenire la richiesta di una vita
-alienata, la possibilità di star bene nell’inferno del biocapitalismo. No, la rivoluzione è nel mettere
-al centro il mio percorso di soggettivazione, come diritto inalienabile. Noi vogliamo creare una
-
-4
-società che valorizzi le differenze all’interno della vita di ogni persona e poi tra le persone. Stiamo
-costruendo una rete mondiale di relazioni umane basata su vissuti particolari da rintracciare,
-collegare e condividere, fondata sull’estremo valore della differenza, sull’unicità di miscugli
-esistenziali che generano inattesi percorsi e possibilità di incontro.
+La frontiera dello sfruttamento del biocapitalismo è l'economia della felicità. Quelli del collettivo dicono che le nostre azioni devono essere dirette a scollegarci dall’alienazione identitaria e a stimolare esperienze in altre dimensioni plurali della nostra esistenza. La società che vogliamo costruire deve mettere al centro la possibilità per ogni essere umano di lavorare sulle proprie domande: è questa la vera “pari opportunità” per il futuro, il diritto da conquistarci, il mondo
+nuovo, la rivoluzione. Non può essere nell’orizzonte del nostro avvenire la richiesta di una vita alienata, la possibilità di star bene nell’inferno del biocapitalismo. No, la rivoluzione è nel mettere al centro il mio percorso di soggettivazione, come diritto inalienabile. Noi vogliamo creare una società che valorizzi le differenze all’interno della vita di ogni persona e poi tra le persone. Stiamo costruendo una rete mondiale di relazioni umane basata su vissuti particolari da rintracciare, collegare e condividere, fondata sull’estremo valore della differenza, sull’unicità di miscugli esistenziali che generano inattesi percorsi e possibilità di incontro.
 
 08/08/2026
 Le linee di azione su cui muoversi sono: nomadismo, biodiversità culturale, pluralità identitaria,
@@ -305,27 +289,11 @@ alle procedure, ai dispositivi di controllo, alle telecamere, all'utilizzo.... e
 linguaggio, nella giurisprudenza, nel marketing, nella medicina, nelle reti di informazione....
 
 18/08/2026
-Stasera ho acceso una sigaretta posando l’accendino proprio sopra le tante bruciature sul mobile
-accanto al posacenere. Il computer è acceso, sento da dietro lo schermo i rumori leggeri del
-traffico che salgono fino al diciottesimo piano. La finestra è leggermente aperta e con i rumori
-entra l’aria di fuori, così diversa dal solito. Lui sta per arrivare... abbiamo imparato a memoria la
-sequenza di azioni, le parole, i passaggi che porta il sistema a farci incontrare. Lo scelgo sempre
-tra cinque persone che mi propone, così come a volte mi sceglie lui. La menzogna è la nostra
-forza, la possibilità di controllare una zona di noi stessi autonoma, dove nessuno può entrare.
-Così la nostra vita è diventata un gioco, una recita, fatta di luoghi da visitare, di cose da leggere,
-persone da incontrare, cose da mangiare, preferenze da esprimere, oggetti da focalizzare durante
-la giornata, percorsi da portare a termine... tutte cose che ci aprono spazi di manovra nei quali
-possiamo incontrarci come persone selezionate per gusti simili.
+Stasera ho acceso una sigaretta posando l’accendino proprio sopra le tante bruciature sul mobile accanto al posacenere. Il computer è acceso, sento da dietro lo schermo i rumori leggeri del traffico che salgono fino al diciottesimo piano. La finestra è leggermente aperta e con i rumori entra l’aria di fuori, così diversa dal solito. Lui sta per arrivare... abbiamo imparato a memoria la sequenza di azioni, le parole, i passaggi che porta il sistema a farci incontrare. Lo scelgo sempre tra cinque persone che mi propone, così come a volte mi sceglie lui. La menzogna è la nostra forza, la possibilità di controllare una zona di noi stessi autonoma, dove nessuno può entrare.
+Così la nostra vita è diventata un gioco, una recita, fatta di luoghi da visitare, di cose da leggere, persone da incontrare, cose da mangiare, preferenze da esprimere, oggetti da focalizzare durante la giornata, percorsi da portare a termine... tutte cose che ci aprono spazi di manovra nei quali possiamo incontrarci come persone selezionate per gusti simili.
 
 26/08/2026
-Dobbiamo attivare dispositivi relazionali negli interstizi culturali, nei luoghi dell’equivoco, del
-malinteso, del non voluto, non pensato, non programmato, dell’accidentale, del casuale,
-dell’errore... in quei campi spazio-temporali inutili, dove non accadono cose significative o parole
-sensate che compongono discorsi ma solo fatti da scartare detti con sillabe balbettate, scritti con
-scarabocchi. Dispositivi, come incontri imprevisti tra persone che non si conoscono, feste
-organizzate all’ultimo minuto, mostre non pubblicizzate di immagini webcam... sguardi che scegli
-di posare per la prima volta su persone e cose che hai sempre attraversato senza accorgertene e
-creano occasioni, situazioni potenzialmente generative dell’inatteso...
+Dobbiamo attivare dispositivi relazionali negli interstizi culturali, nei luoghi dell’equivoco, del malinteso, del non voluto, non pensato, non programmato, dell’accidentale, del casuale, dell’errore... in quei campi spazio-temporali inutili, dove non accadono cose significative o parole sensate che compongono discorsi ma solo fatti da scartare detti con sillabe balbettate, scritti con scarabocchi. Dispositivi, come incontri imprevisti tra persone che non si conoscono, feste organizzate all’ultimo minuto, mostre non pubblicizzate di immagini webcam... sguardi che scegli di posare per la prima volta su persone e cose che hai sempre attraversato senza accorgertene e creano occasioni, situazioni potenzialmente generative dell’inatteso...
 
 19/09/2026
 Ci sono... sono dentro la casa. Ogni tentativo di scrittura mi distoglie, dovrei cercare di raccontare senza distaccarmi, mentre vedo, sento, avverto attorno a me... mi alzo per andare alla finestra, scosto la tenda, guardo giù, piove. C'è un indistinto sfondo grigio e il vicino di casa che sta correndo sotto la pioggia verso il portone.... nella stanza c'è odore di plastica, di vecchio, di già vissuto da altri, odori che non sono miei ma non mi danno fastidio più di tanto. Qui tutto è essenziale, minimo. Scrivo seduta al tavolo della piccola cucina con le sedie rosse e una vecchia tovaglia blu scuro. So che le cose si intrecciano, che tutto è legato. Da questa stanza per me è possibile pensarle, rannicchiarmi ed entrarci dentro... sono un virus, un fluido continuo che ha già iniziato a diffondersi.
