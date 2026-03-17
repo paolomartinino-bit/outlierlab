@@ -194,3 +194,169 @@ III. Fuori dal Controllo. L’algoritmo teme ciò che non può calcolare. Noi ce
 IV. De-automatizzare lo Sguardo. Siamo stati addestrati a guardare il mondo attraverso un vetro gelato. Bordeaux vuole essere lo strumento per recuperare una "visione surreale": guardare l’ordinario fino a trovarvi l’assurdo, il sacro, l’umano. Liberarsi dall’alienazione significa tornare a vedere l’altro come un abisso insondabile.
 V. L'Arte di essere inutili. Sia lode a chi non sa stare al passo, a chi sceglie "di non servire". L’inutilità è la nostra corazza contro la deumanizzazione. "Io non sono che un piccolo fanciullo che piange" davanti alla brutalità del successo. Essere inutili al sistema è l’unico modo per essere essenziali a se stessi.
 VI. Il Contagio della Presenza. Questo foglio esiste solo se viaggia, se viene smarrito su una panchina o donato a un passante. "Qui non si fa commercio": non cerchiamo visibilità, ma presenza. Un contributo libero è il sigillo di un patto tra esseri umani perché il valore risiede nel gesto, mai nel prezzo.  Questo foglio sarà presenza se oltre ad essere letto susciterà la voglia di replicare, domandare, rispondere, aggregarsi all’informe che sta nascendo e lasciarsene contagiare.
+
+23/05/2026
+Con l'Evangelo la mia vita è cambiata. Prima il mio tempo era catturato, alienato, imprigionato. Ogni istante che accadeva prendeva una forma già prevista: ruoli, anticipazioni, routine, abitudini funzionali. Poi ho scoperto come liberarlo. Poi ho imparato a sottrarre il tempo alla macchina produttiva, rendendolo veloce e inafferrabile.
+
+12/06/2026
+Per me vivere è stare nei passaggi, nei luoghi di transito, negli interstizi dell'esistenza, in un
+continuo cambiamento che apre a nuovi orizzonti perché capace di generare il nuovo, di creare
+nell'attimo che sta arrivando qualcosa che prima non c'era. Mi muovo nei cunicoli, in quegli spazi
+dove si possono creare micro-connessioni quasi invisibili tra soggetti. Sono sempre stata
+affascinata da quei passaggi che sono posti in mezzo alle cose definite. Io sono mutante, in
+continua trasformazione, per resistere all’alienazione schiavizzante del biocapitalismo.
+
+01/07/2026
+“Sii veloce, non farti alienare in niente, non permettergli di renderti una cosa, un nome, l’esistenza
+che loro vogliono. La vita che è in te non ha nome e può creare forme che vanno oltre un’esistenza di
+alcune decine di anni. Chiudi gli occhi, prova a sentire lo spazio/tempo che sta arrivando, la realtà
+che si crea nell’istante che sta per realizzarsi e senti la tua energia che entra in gioco per costruirla.”
+Giorni fa ho ritrovato questo messaggio, è del collettivo.
+
+03/07/2026
+Occorrono movimenti veloci, gesti istantanei. Cercano di prenderci ma non ci riescono perché le
+nostre azioni creano miscugli culturali, hacking di significati, micro-relazioni temporanee tra le
+persone che aprono a nuove possibilità di rapporti, sempre in continua trasformazione.
+Dobbiamo accelerare tutto, portando il sistema alle estreme conseguenze e innescando così
+processi di radicale trasformazione dell'umano, integrandolo con intelligenze artificiali
+
+2
+transumane e lavorando sulla consapevolezza dei nostri bisogni fondamentali. Il livello più
+avanzato di conflittualità che inneschiamo porta dentro di sé il rifiuto di potere, proprietà,
+dominio, violenza, morte.
+
+15/07/2026
+Quelli del collettivo dicono che lo scontro finale sarà sull’amore messo in produzione. Ne
+parlavamo spesso a cena. Yan saltava gli spaghetti di riso mentre noi aspettavamo al tavolo
+laminato, con le stufette accese, a raccontarci ricordi, a sentire il calore del ritrovarci insieme e gli
+odori delle giacche di pelle. Gli incontri fisici tra persone oggi sono consentiti solo per alcune
+attività: lavoro, rapporti col governo, acquisto di prodotti speciali.... poi in genere sono
+considerati negativi, anche se non vietati, e socialmente squalificanti. Con il collettivo noi
+costruiamo esperienze di liberazione, attraverso l’attivazione di improbabili relazioni fisiche
+personali tra le persone, dense di potenzialità generative. Catalizziamo le risorse di piccoli gruppi
+per promuovere processi che fanno dell’hacking culturale una visione del mondo e una pratica
+quotidiana in grado di collegare realtà diverse e di sperimentare nuovi linguaggi.
+
+21/07/2026
+Adesso mi trovo in una stanza con lunghi tavoli di metallo scuro, incrostazioni, macchie di vernici
+e collanti; sopra ci sono monitor, computer, tastiere e cavi intrecciati, periferiche sovrapposte e
+poi libri, fogli, quaderni... sparsi qua e là tra lampade al neon che illuminano la stanza buia con le
+finestre chiuse. Alle pareti sono attaccati fogli, pezzi di cartelloni, foto... e poi ci sono scaffali di
+metallo strabordanti di strani oggetti. Ormai da anni questo è il mio studio, dove lavoro ai
+movimenti underground, le microforme vitali diffuse nel nostro paese a livello microscopico,
+sotterraneo e invisibile, i gruppi che hanno individuato le pratiche di costruzione di nuovi
+immaginari sociali. Queer, pedagogia libertaria e radicale, autoproduzioni, permacultura,
+squatting, nomadismo culturale, antispecismo, contaminazioni, biodiversità, hacktivism,
+memorie popolari, medicine alternative, pratiche olistiche, cartografia critica, ecc... Sono partita
+dalle sottoculture di Primo Moroni, come espressione alternativa della cultura materiale, e ho
+iniziato a raccogliere storie, sperimentazioni, movimenti. Cerco di conoscere, mappare e poi
+collegare, creare legami. Ho studiato le riviste dei movimenti anni Settanta per documentare le
+esperienze che hanno avviato quel lavoro culturale di dissociazione, di individuazione di
+
+3
+strumenti per l’autonomia del soggetto, per la liberazione del desiderio dalla macchina
+produttiva.... quelli che sono stati gli anticipatori del collettivo, il movimento che oggi fa
+resistenza all’economia della felicità. Poi ho iniziato a lavorare alla memoria degli anni Ottanta
+perché non ho mai sopportato il buco nero narrativo che ha seguito la sconfitta delle classe
+operaia. Individuo temi, sensibilità, intuizioni nelle esperienze di resistenza sotterranea
+controculturale di quegli anni, in cui il sistema si è rafforzato nelle forme del biocapitalismo; le
+esperienze che hanno generato idee che oggi sono i riferimenti culturali del collettivo.
+
+26/07/2026
+La nostra resistenza è nel sottrarci allo sfruttamento del livello più profondo della nostra umanità
+che è la capacità di dare significato alle esperienze, di creare la realtà. Mesi fa ho conosciuto un
+militante del collettivo che si muove tra Barcellona e Tirana cercando di collegare persone,
+esperienze e progetti. Lavora con il diario per rompere le abitudini e l'inconsapevolezza e utilizza
+la narrazione collettiva come modalità di costruzione di relazioni sociali. Mi raccontava di quanto
+sia importante scrivere come se uno avesse la sensazione di trovarsi dentro un videogioco,
+muovendosi ad esplorare spazi/tempi non immediatamente visibili, in un groviglio di strutture,
+ambientazioni, architetture, cavi, fili elettrici, tubi. Tanti compagni del collettivo parlano a caso
+con le persone che incontrano (una delle azioni più pericolose perché incontrollabili), rifiutano la
+programmazione, creano cellule narrative improvvisate, non registrano niente di sé, delle
+proprie esperienze e quindi hanno problemi d’identità, di riconoscimento sociale, vivono ai
+margini, si organizzano in comunità clandestine utilizzando sistemi alternativi di comunicazione.
+
+28/07/2026
+La frontiera dello sfruttamento del biocapitalismo è l'economia della felicità. Quelli del collettivo
+dicono che le nostre azioni devono essere dirette a scollegarci dall’alienazione identitaria e a
+stimolare esperienze in altre dimensioni plurali della nostra esistenza. La società che vogliamo
+costruire deve mettere al centro la possibilità per ogni essere umano di lavorare sulle proprie
+domande: è questa la vera “pari opportunità” per il futuro, il diritto da conquistarci, il mondo
+nuovo, la rivoluzione. Non può essere nell’orizzonte del nostro avvenire la richiesta di una vita
+alienata, la possibilità di star bene nell’inferno del biocapitalismo. No, la rivoluzione è nel mettere
+al centro il mio percorso di soggettivazione, come diritto inalienabile. Noi vogliamo creare una
+
+4
+società che valorizzi le differenze all’interno della vita di ogni persona e poi tra le persone. Stiamo
+costruendo una rete mondiale di relazioni umane basata su vissuti particolari da rintracciare,
+collegare e condividere, fondata sull’estremo valore della differenza, sull’unicità di miscugli
+esistenziali che generano inattesi percorsi e possibilità di incontro.
+
+08/08/2026
+Le linee di azione su cui si muove l’offensiva del collettivo sono: nomadismo, biodiversità
+culturale, pluralità identitaria, diritto alle reti, al capitale sociale, alla costruzione e condivisione
+di dati, alla cura di sé. Il livello più avanzato di conflittualità sociale l’abbiamo costruito
+rivendicando diritti che riescano realmente a potenziarci. Il nomadismo è il primo, fatto di
+possibilità di movimento, di acquisizione di capacità di interagire in ogni parte del mondo. Il
+diritto poi di cambiare e ridefinire più volte le forme della propria esistenza, il diritto al capitale
+sociale minimo garantito per tutti, a costruire e condividere dati generati nell’esistenza. Poi il
+diritto di proprietà esclusiva del proprio percorso di soggettivazione, che non deve essere
+sfruttato nei meccanismi dell’economia della felicità. Abbiamo creato spazi per educare alla
+multidimensionalità dell’esistenza, alla pluralità identitaria, al valore della differenza, alla
+consapevolezza dell’esistenza umana come fatto culturale. Insegniamo che non esistono per gli
+esseri umani fatti naturali ma tutto quello che viene vissuto è costruito attraverso significati,
+emozioni e parole che appartengono al linguaggio nel quale siamo immersi. Insegniamo che
+l’esistenza umana è culturale e che quello che possiamo fare per migliorare la possibilità di
+sviluppare percorsi di soggettivazione è rendere il linguaggio sempre più aperto e inclusivo.
+Insegniamo che la diversità, la differenza sono i tratti fondamentali costitutivi l’essere umano.
+Insegniamo che la multidimensionalità dell’esistenza è data dalla possibilità di sviluppare più
+livelli di percezione e di esperienza della realtà e che è possibile vivere queste dimensioni
+diverse, allargare la percezione oltre lo spazio e il tempo nel quale apparentemente siamo
+costretti.
+
+12/08/2026
+Carceri, ospedali, scuole, ambulatori, centri commerciali, uffici pubblici, centri di accoglienza,
+fabbriche... le istituzioni totali contengono spazi nascosti e invisibili al primo sguardo che sono
+"accessi interstiziali": potenziali punti d’attacco alla macchina produttiva. Spazi marginali, non
+
+5
+accessibili, disfunzionali... sottoscala, intercapedini, condotte, tubazioni, spazi d’avanzo, di
+congiunzione, che ristrutturazioni e lavori non hanno potuto eliminare. Spazi che si sottraggono
+alle procedure, ai dispositivi di controllo, alle telecamere, all'utilizzo.... e che esistono anche nel
+linguaggio, nella giurisprudenza, nel marketing, nella medicina, nelle reti di informazione....
+
+18/08/2026
+Stasera ho acceso una sigaretta posando l’accendino proprio sopra le tante bruciature sul mobile
+accanto al posacenere. Il computer è acceso, sento da dietro lo schermo i rumori leggeri del
+traffico che salgono fino al diciottesimo piano. La finestra è leggermente aperta e con i rumori
+entra l’aria di fuori, così diversa dal solito. Lui sta per arrivare... abbiamo imparato a memoria la
+sequenza di azioni, le parole, i passaggi che porta il sistema a farci incontrare. Lo scelgo sempre
+tra cinque persone che mi propone, così come a volte mi sceglie lui. La menzogna è la nostra
+forza, la possibilità di controllare una zona di noi stessi autonoma, dove nessuno può entrare.
+Così la nostra vita è diventata un gioco, una recita, fatta di luoghi da visitare, di cose da leggere,
+persone da incontrare, cose da mangiare, preferenze da esprimere, oggetti da focalizzare durante
+la giornata, percorsi da portare a termine... tutte cose che ci aprono spazi di manovra nei quali
+possiamo incontrarci come persone selezionate per gusti simili.
+
+26/08/2026
+Dobbiamo attivare dispositivi relazionali negli interstizi culturali, nei luoghi dell’equivoco, del
+malinteso, del non voluto, non pensato, non programmato, dell’accidentale, del casuale,
+dell’errore... in quei campi spazio-temporali inutili, dove non accadono cose significative o parole
+sensate che compongono discorsi ma solo fatti da scartare detti con sillabe balbettate, scritti con
+scarabocchi. Dispositivi, come incontri imprevisti tra persone che non si conoscono, feste
+organizzate all’ultimo minuto, mostre non pubblicizzate di immagini webcam... sguardi che scegli
+di posare per la prima volta su persone e cose che hai sempre attraversato senza accorgertene e
+creano occasioni, situazioni potenzialmente generative dell’inatteso...
+
+19/09/2026
+Ci sono... sono dentro la casa. Ogni tentativo di scrittura mi distoglie, dovrei cercare di raccontare
+senza distaccarmi, mentre vedo, sento, avverto attorno a me... mi alzo per andare alla finestra,
+
+6
+scosto la tenda, guardo giù, piove. C'è un indistinto sfondo grigio e il vicino di casa che sta
+correndo sotto la pioggia verso il portone.... nella stanza c'è odore di plastica, di vecchio, di già
+vissuto da altri, odori che non sono miei ma non mi danno fastidio più di tanto. Qui tutto è
+essenziale, minimo. Scrivo seduta al tavolo della piccola cucina con le sedie rosse e una vecchia
+tovaglia blu scuro. So che le cose si intrecciano, che tutto è legato. Da questa stanza per me è
+possibile pensarle, rannicchiarmi ed entrarci dentro... sono un virus, un fluido continuo che ha
+già iniziato a diffondersi.
