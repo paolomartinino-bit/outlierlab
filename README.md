@@ -233,16 +233,8 @@ Dobbiamo attivare dispositivi relazionali negli interstizi culturali, nei luoghi
 Ci sono... sono dentro la casa. Ogni tentativo di scrittura mi distoglie, dovrei cercare di raccontare senza distaccarmi, mentre vedo, sento, avverto attorno a me... mi alzo per andare alla finestra, scosto la tenda, guardo giù, piove. C'è un indistinto sfondo grigio e il vicino di casa che sta correndo sotto la pioggia verso il portone.... nella stanza c'è odore di plastica, di vecchio, di già vissuto da altri, odori che non sono miei ma non mi danno fastidio più di tanto. Qui tutto è essenziale, minimo. Scrivo seduta al tavolo della piccola cucina con le sedie rosse e una vecchia tovaglia blu scuro. So che le cose si intrecciano, che tutto è legato. Da questa stanza per me è possibile pensarle, rannicchiarmi ed entrarci dentro... sono un virus, un fluido continuo che ha già iniziato a diffondersi.
 
 Zaccheo, il carcere e la nostra umanità
-Il sistema economico nel quale viviamo ci definisce, ci struttura, ci blocca in ruoli ben precisi,
-alienanti, creati per non farci sentire la voce dello Spirito Santo che ci chiama. Il dovere di essere
-vincenti, le aspettative di una vita piena di soddisfazioni e serenità, le relazioni di dominio con gli
-altri; dobbiamo essere sempre forti, presenti a noi stessi, produttivi e realizzati.
-Però basta una crepa, anche piccola, e da lì… la voce può entrare a cercarci.
-Zaccheo era potente, ricco. Era un pubblicano, uno che riscuoteva le tasse per i Romani, uno
-temuto e riconosciuto da tutti ma... era piccolo, era basso. Nonostante il suo ruolo sociale e il
-terrore che incutevano le sue violente riscossioni gli altri, soprattutto le donne, di nascosto lo
-deridevano e lui faceva di tutto per mascherare quel “difetto”. Poi la sera quando restava da solo a
-casa e si guardava allo specchio un po’ gli veniva da ridere, tra sé e sé, perché in effetti si sentiva
+Il sistema economico nel quale viviamo ci definisce, ci struttura, ci blocca in ruoli ben precisi, alienanti, creati per non farci sentire la voce dello Spirito Santo che ci chiama. Il dovere di essere vincenti, le aspettative di una vita piena di soddisfazioni e serenità, le relazioni di dominio con gli altri; dobbiamo essere sempre forti, presenti a noi stessi, produttivi e realizzati. Però basta una crepa, anche piccola, e da lì… la voce può entrare a cercarci.
+Zaccheo era potente, ricco. Era un pubblicano, uno che riscuoteva le tasse per i Romani, uno temuto e riconosciuto da tutti ma... era piccolo, era basso. Nonostante il suo ruolo sociale e il terrore che incutevano le sue violente riscossioni gli altri, soprattutto le donne, di nascosto lo deridevano e lui faceva di tutto per mascherare quel “difetto”. Poi la sera quando restava da solo a casa e si guardava allo specchio un po’ gli veniva da ridere, tra sé e sé, perché in effetti si sentiva
 diverso dagli altri e questo gli piaceva. Lontano finalmente dal dover mantenere quel suo ruolo di
 uomo forte e vincente si sentiva bene. Sì, da solo in quello spazio in cui improvvisamente si
 scopriva fragile e vulnerabile, un po’ si sentiva a casa. Gli tornavano alla mente i ricordi della
